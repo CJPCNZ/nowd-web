@@ -65,7 +65,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #CCD0D0;
+  --bs-body-color: #FFF;
   --bs-body-bg: #fff;
   --bs-border-width: 1px;
   --bs-border-style: solid;
@@ -11099,7 +11099,7 @@ body {
   font-family: "Panton", "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1.5rem;
   line-height: 1rem;
-  color: #CCD0D0;
+  color: #FFF;
 }
 .masthead img {
   height: 4em;
@@ -11116,7 +11116,7 @@ body {
     font-family: "Panton", "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 2.5rem;
     line-height: 2rem;
-    color: #CCD0D0;
+    color: #FFF;
   }
   .masthead h2, .masthead .h2 {
     max-width: 80rem;
